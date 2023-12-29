@@ -1,0 +1,19 @@
+{
+  "name": "2fa_hardware",
+  "version": "1.0.0",
+  "description": "designed around using 2FA hardware key for the user for easy login.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DjTuner13/2FA_Hardware.git"
+  },
+  "author": "djTuner13",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DjTuner13/2FA_Hardware/issues"
+  },
+  "homepage": "https://github.com/DjTuner13/2FA_Hardware#readme"
+}
